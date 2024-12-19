@@ -99,3 +99,5 @@ Users can submit a review for a state/place by filling out the review form. Afte
 Users can contact the support team via the "Contact Us" form, which sends their query to the support team.
 - **Contributions**
 If you'd like to contribute to this project, feel free to submit a pull request or open an issue for discussion. Contributions are always welcome!
+
+https://drive.google.com/file/d/1dzQnuiePeUqRdz2p2UN-5Ub8DCHi2TND/view?usp=sharing
